@@ -142,7 +142,7 @@ export default function Hero() {
                 View Projects
               </button>
               <a
-                href="https://drive.google.com/uc?export=download&id=1ndrrHTongZZQRHgNcQNrFZUTgVqHHWbS"
+                href="https://drive.google.com/file/d/1H74l1LZHPpY-tr5J-uXeHPV2Nw5jaF_r/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 rounded-md text-sm font-medium font-outfit
