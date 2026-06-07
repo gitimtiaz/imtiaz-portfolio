@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="public/imtiaz.png" alt="Imtiaz Ahamed" width="100" style="border-radius: 50%;" />
+  <img src="public/imtiaz-circle.png" alt="Imtiaz Ahamed" width="110" />
 
   <h1>Imtiaz Ahamed — Portfolio</h1>
 
@@ -23,11 +23,7 @@
 ---
 
 ## 📸 Preview
-
-> **Add a screenshot here after deploying.**
-> Take a full-page screenshot and save it as `public/preview.png`, then uncomment the line below.
-
-<!-- ![Portfolio Preview](public/preview.png) -->
+![Portfolio Preview](public/preview.png)
 
 ---
 
